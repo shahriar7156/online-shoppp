@@ -1,11 +1,19 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react'
 
-function App() {
+import Announcement from './components/Announcement';
+import Navbar from './components/Navbar';
+import Slider from './components/Slider';
+
+
+const App = () => {
   return (
-    <div className="App">
-      <h1>hello world</h1>
+    <div>
+          <Announcement/> 
+          <Navbar/>
+          <Slider/>
+
     </div>
+
   );
 }
 
