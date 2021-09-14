@@ -113,8 +113,8 @@ import {
           <List>
             <ListItem>Home</ListItem>
             <ListItem>Cart</ListItem>
-            <ListItem>Man Fashion</ListItem>
-            <ListItem>Woman Fashion</ListItem>
+            <ListItem>Electronics</ListItem>
+            <ListItem>Phone</ListItem>
             <ListItem>Accessories</ListItem>
             <ListItem>My Account</ListItem>
             <ListItem>Order Tracking</ListItem>
@@ -126,7 +126,7 @@ import {
         <Right>
           <Title>Contact</Title>
           <ContactItem>
-            <Room style={{marginRight:"10px"}}/> 1231 Scheuvront Drive, Denver 80202, Colorado, USA
+            <Room style={{marginRight:"10px"}}/> 1231/ABC Road, Dhaka 1200, Bangladesh
           </ContactItem>
           <ContactItem>
             <Phone style={{marginRight:"10px"}}/> +1 234 56 7890
@@ -134,7 +134,7 @@ import {
           <ContactItem>
             <MailOutline style={{marginRight:"10px"}} /> contact@onlineshop.com
           </ContactItem>
-          <Payment src="https://i.ibb.co/Qfvn4z6/payment.png" />
+          <Payment src="https://i.ibb.co/FKxn3rZ/26.png" />
         </Right>
       </Container>
     );
