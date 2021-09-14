@@ -9,6 +9,7 @@ const Container = styled.div`
   height: 100vh;
   display: flex;
   position: relative;
+  
   overflow: hidden;
   ${mobile({ display: "none" })}
 `;
@@ -16,7 +17,7 @@ const Container = styled.div`
 const Arrow = styled.div`
   width: 50px;
   height: 50px;
-  background-color: #fff7f7;
+  background-color: #07F6FA;
   border-radius: 50%;
   display: flex;
   align-items: center;

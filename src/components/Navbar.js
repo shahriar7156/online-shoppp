@@ -1,8 +1,10 @@
+import React from 'react';
 import { Badge } from "@material-ui/core";
 import { Search, ShoppingCartOutlined } from "@material-ui/icons";
-import React from "react";
 import styled from "styled-components";
 import { mobile } from "../responsive";
+import Sidebar from "./Sidebar";
+
 
 const Container = styled.div`
   height: 60px;
@@ -68,10 +70,12 @@ const MenuItem = styled.div`
 `;
 
 const Navbar = () => {
+  
   return (
     <Container>
       <Wrapper>
         <Left>
+          <Sidebar/>
           <Language>EN</Language>
           <SearchContainer>
             <Input placeholder="Search" />
