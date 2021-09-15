@@ -2,22 +2,22 @@ export const sliderItems = [
     {
       id: 1,
       img: "https://i.ibb.co/HhYVn8Q/Untitled-8.png",
-      title: "SUMMER SALE",
-      desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
+      title: "DURABILITY",
+      desc: "For the most exciting range of gadgets",
       bg: "f5fafd",
     },
     {
       id: 2,
       img: "https://i.ibb.co/3yVSK7F/Untitled-5.png",
-      title: "AUTUMN COLLECTION",
-      desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
+      title: "PASSION BX7",
+      desc: "DON'T COMPROMISE ON PERFORMANCE",
       bg: "fcf1ed",
     },
     {
       id: 3,
       img: "https://i.ibb.co/Y7KxSM6/Untitled-11.png",
-      title: "LOUNGEWEAR LOVE",
-      desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
+      title: "PRIMO R8",
+      desc: "CHALLENGE THE LIMITS",
       bg: "fbf0f4",
     },
   ];
