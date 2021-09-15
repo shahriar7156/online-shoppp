@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/online-shoppp/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/online-shoppp/static/js/main.6aeaa532.chunk.js",
+    "main.js.map": "/online-shoppp/static/js/main.6aeaa532.chunk.js.map",
+    "runtime-main.js": "/online-shoppp/static/js/runtime-main.e74400e4.js",
+    "runtime-main.js.map": "/online-shoppp/static/js/runtime-main.e74400e4.js.map",
+    "static/js/2.156ff813.chunk.js": "/online-shoppp/static/js/2.156ff813.chunk.js",
+    "static/js/2.156ff813.chunk.js.map": "/online-shoppp/static/js/2.156ff813.chunk.js.map",
+    "static/js/3.734dd142.chunk.js": "/online-shoppp/static/js/3.734dd142.chunk.js",
+    "static/js/3.734dd142.chunk.js.map": "/online-shoppp/static/js/3.734dd142.chunk.js.map",
+    "index.html": "/online-shoppp/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/online-shoppp/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.156ff813.chunk.js.LICENSE.txt": "/online-shoppp/static/js/2.156ff813.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e74400e4.js",
+    "static/js/2.156ff813.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.6aeaa532.chunk.js"
+  ]
+}
